@@ -23,15 +23,16 @@
     xsi:schemaLocation="http://www.jboss.org/ironjacamar/schema http://docs.jboss.org/ironjacamar/schema/datasources_1_0.xsd">
     <!-- The datasource is bound into JNDI at this location. We reference 
         this in META-INF/persistence.xml -->
-    <datasource jndi-name="java:/coursDS"
-        pool-name="coursDS_Pool2" enabled="true"
+    <datasource jndi-name="java:/appDS"
+        pool-name="appDS_Pool2" enabled="true"
         use-java-context="true">
         <connection-url>jdbc:mysql://localhost:3306/studyBD</connection-url>
         <driver>mysql</driver>
         <security>
-            <user-name>root</user-name>
+            <user-name></user-name>
             <password></password>
         </security>
     </datasource>
 
 </datasources>
+
