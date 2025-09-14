@@ -53,7 +53,3 @@ Planned enhancements include:
 - Role-based access control and permissions
 - User self-service portals
 - Enhanced notifications and reporting
-
-## License
-
-MIT License
