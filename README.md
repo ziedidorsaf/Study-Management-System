@@ -11,6 +11,10 @@ The Study Management System is a web-based application that centralizes academic
 - **Speciality Management:** Define and manage academic specialities or departments.
 - **Grade Management:** Enter, update, and track student grades.
 
+## Welcome Page
+
+![Welcome page Screenshot](welcome-page.png)
+
 ## Admin Dashboard
 
 Here’s an example of the admin dashboard:
