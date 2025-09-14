@@ -44,7 +44,7 @@ The Study Management System is a web-based application that centralizes academic
 
 3. **Configure MySQL database** and relevant environment variables as needed.
 
-4. **Run the application** using your preferred IDE or build tool.
+4. **Run the application** using Eclipse IDE for Java Developers.
 
 ## Roadmap
 
