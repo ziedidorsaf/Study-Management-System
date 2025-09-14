@@ -30,7 +30,8 @@
         <driver>mysql</driver>
         <security>
             <user-name>root</user-name>
-            <password>Enit2024Enit2024@123456789</password>
+            <password></password>
         </security>
     </datasource>
+
 </datasources>
