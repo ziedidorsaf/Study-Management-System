@@ -17,8 +17,6 @@ The Study Management System is a web-based application that centralizes academic
 
 ## Admin Dashboard
 
-Here’s an example of the admin dashboard:
-
 ![Admin Dashboard Screenshot](admin-dashboard.png)
 
 ## Project Structure
